@@ -59,11 +59,17 @@
     background-color: #f3f3f3;
     text-align: center;
     border: none;
-    height: 30px;
+    height: 40px;
+    margin-left: 5px;;
 }
 .Search{
     width: 100%;
-    height: 30px;
+    height: 40px;
     border: none;
     box-sizing: border-box;
+}
+.search-icon{
+    width: 50px;
+    display: flex;
+    justify-content: center;
 }
