@@ -8,6 +8,7 @@
     background-color: #0f1111;
     color: white;
     display: flex;
+    justify-content: space-evenly;
     align-items: center;
 }
 .nav-logo{
@@ -69,7 +70,13 @@
     box-sizing: border-box;
 }
 .search-icon{
-    width: 50px;
+    width: 45px;
+    height: 40px;
     display: flex;
     justify-content: center;
+    align-items: center;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    background-color: rgb(237, 151, 3);
+    box-sizing: border-box;
 }
